@@ -7,40 +7,40 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		B08441D42CAF60AF00842AFA /* PBXContainerItemProxy */ = {
+		B08442422CAF62CF00842AFA /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = B08441BA2CAF60AD00842AFA /* Project object */;
+			containerPortal = B08442282CAF62CE00842AFA /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B08441C12CAF60AD00842AFA;
+			remoteGlobalIDString = B084422F2CAF62CE00842AFA;
 			remoteInfo = purr;
 		};
-		B08441DE2CAF60AF00842AFA /* PBXContainerItemProxy */ = {
+		B084424C2CAF62CF00842AFA /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = B08441BA2CAF60AD00842AFA /* Project object */;
+			containerPortal = B08442282CAF62CE00842AFA /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = B08441C12CAF60AD00842AFA;
+			remoteGlobalIDString = B084422F2CAF62CE00842AFA;
 			remoteInfo = purr;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		B08441C22CAF60AD00842AFA /* purr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = purr.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		B08441D32CAF60AF00842AFA /* purrTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = purrTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		B08441DD2CAF60AF00842AFA /* purrUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = purrUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B08442302CAF62CE00842AFA /* purr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = purr.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B08442412CAF62CF00842AFA /* purrTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = purrTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B084424B2CAF62CF00842AFA /* purrUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = purrUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		B08441C42CAF60AD00842AFA /* purr */ = {
+		B08442322CAF62CE00842AFA /* purr */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = purr;
 			sourceTree = "<group>";
 		};
-		B08441D62CAF60AF00842AFA /* purrTests */ = {
+		B08442442CAF62CF00842AFA /* purrTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = purrTests;
 			sourceTree = "<group>";
 		};
-		B08441E02CAF60AF00842AFA /* purrUITests */ = {
+		B084424E2CAF62CF00842AFA /* purrUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = purrUITests;
 			sourceTree = "<group>";
@@ -48,21 +48,21 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		B08441BF2CAF60AD00842AFA /* Frameworks */ = {
+		B084422D2CAF62CE00842AFA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B08441D02CAF60AF00842AFA /* Frameworks */ = {
+		B084423E2CAF62CF00842AFA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B08441DA2CAF60AF00842AFA /* Frameworks */ = {
+		B08442482CAF62CF00842AFA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		B08441B92CAF60AD00842AFA = {
+		B08442272CAF62CE00842AFA = {
 			isa = PBXGroup;
 			children = (
-				B08441C42CAF60AD00842AFA /* purr */,
-				B08441D62CAF60AF00842AFA /* purrTests */,
-				B08441E02CAF60AF00842AFA /* purrUITests */,
-				B08441C32CAF60AD00842AFA /* Products */,
+				B08442322CAF62CE00842AFA /* purr */,
+				B08442442CAF62CF00842AFA /* purrTests */,
+				B084424E2CAF62CF00842AFA /* purrUITests */,
+				B08442312CAF62CE00842AFA /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		B08441C32CAF60AD00842AFA /* Products */ = {
+		B08442312CAF62CE00842AFA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B08441C22CAF60AD00842AFA /* purr.app */,
-				B08441D32CAF60AF00842AFA /* purrTests.xctest */,
-				B08441DD2CAF60AF00842AFA /* purrUITests.xctest */,
+				B08442302CAF62CE00842AFA /* purr.app */,
+				B08442412CAF62CF00842AFA /* purrTests.xctest */,
+				B084424B2CAF62CF00842AFA /* purrUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B08441C12CAF60AD00842AFA /* purr */ = {
+		B084422F2CAF62CE00842AFA /* purr */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B08441E72CAF60AF00842AFA /* Build configuration list for PBXNativeTarget "purr" */;
+			buildConfigurationList = B08442552CAF62CF00842AFA /* Build configuration list for PBXNativeTarget "purr" */;
 			buildPhases = (
-				B08441BE2CAF60AD00842AFA /* Sources */,
-				B08441BF2CAF60AD00842AFA /* Frameworks */,
-				B08441C02CAF60AD00842AFA /* Resources */,
+				B084422C2CAF62CE00842AFA /* Sources */,
+				B084422D2CAF62CE00842AFA /* Frameworks */,
+				B084422E2CAF62CE00842AFA /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				B08441C42CAF60AD00842AFA /* purr */,
+				B08442322CAF62CE00842AFA /* purr */,
 			);
 			name = purr;
 			packageProductDependencies = (
 			);
 			productName = purr;
-			productReference = B08441C22CAF60AD00842AFA /* purr.app */;
+			productReference = B08442302CAF62CE00842AFA /* purr.app */;
 			productType = "com.apple.product-type.application";
 		};
-		B08441D22CAF60AF00842AFA /* purrTests */ = {
+		B08442402CAF62CF00842AFA /* purrTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B08441EA2CAF60AF00842AFA /* Build configuration list for PBXNativeTarget "purrTests" */;
+			buildConfigurationList = B08442582CAF62CF00842AFA /* Build configuration list for PBXNativeTarget "purrTests" */;
 			buildPhases = (
-				B08441CF2CAF60AF00842AFA /* Sources */,
-				B08441D02CAF60AF00842AFA /* Frameworks */,
-				B08441D12CAF60AF00842AFA /* Resources */,
+				B084423D2CAF62CF00842AFA /* Sources */,
+				B084423E2CAF62CF00842AFA /* Frameworks */,
+				B084423F2CAF62CF00842AFA /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				B08441D52CAF60AF00842AFA /* PBXTargetDependency */,
+				B08442432CAF62CF00842AFA /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				B08441D62CAF60AF00842AFA /* purrTests */,
+				B08442442CAF62CF00842AFA /* purrTests */,
 			);
 			name = purrTests;
 			packageProductDependencies = (
 			);
 			productName = purrTests;
-			productReference = B08441D32CAF60AF00842AFA /* purrTests.xctest */;
+			productReference = B08442412CAF62CF00842AFA /* purrTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		B08441DC2CAF60AF00842AFA /* purrUITests */ = {
+		B084424A2CAF62CF00842AFA /* purrUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B08441ED2CAF60AF00842AFA /* Build configuration list for PBXNativeTarget "purrUITests" */;
+			buildConfigurationList = B084425B2CAF62CF00842AFA /* Build configuration list for PBXNativeTarget "purrUITests" */;
 			buildPhases = (
-				B08441D92CAF60AF00842AFA /* Sources */,
-				B08441DA2CAF60AF00842AFA /* Frameworks */,
-				B08441DB2CAF60AF00842AFA /* Resources */,
+				B08442472CAF62CF00842AFA /* Sources */,
+				B08442482CAF62CF00842AFA /* Frameworks */,
+				B08442492CAF62CF00842AFA /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				B08441DF2CAF60AF00842AFA /* PBXTargetDependency */,
+				B084424D2CAF62CF00842AFA /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				B08441E02CAF60AF00842AFA /* purrUITests */,
+				B084424E2CAF62CF00842AFA /* purrUITests */,
 			);
 			name = purrUITests;
 			packageProductDependencies = (
 			);
 			productName = purrUITests;
-			productReference = B08441DD2CAF60AF00842AFA /* purrUITests.xctest */;
+			productReference = B084424B2CAF62CF00842AFA /* purrUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		B08441BA2CAF60AD00842AFA /* Project object */ = {
+		B08442282CAF62CE00842AFA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1600;
 				LastUpgradeCheck = 1600;
 				TargetAttributes = {
-					B08441C12CAF60AD00842AFA = {
+					B084422F2CAF62CE00842AFA = {
 						CreatedOnToolsVersion = 16.0;
 					};
-					B08441D22CAF60AF00842AFA = {
+					B08442402CAF62CF00842AFA = {
 						CreatedOnToolsVersion = 16.0;
-						TestTargetID = B08441C12CAF60AD00842AFA;
+						TestTargetID = B084422F2CAF62CE00842AFA;
 					};
-					B08441DC2CAF60AF00842AFA = {
+					B084424A2CAF62CF00842AFA = {
 						CreatedOnToolsVersion = 16.0;
-						TestTargetID = B08441C12CAF60AD00842AFA;
+						TestTargetID = B084422F2CAF62CE00842AFA;
 					};
 				};
 			};
-			buildConfigurationList = B08441BD2CAF60AD00842AFA /* Build configuration list for PBXProject "purr" */;
+			buildConfigurationList = B084422B2CAF62CE00842AFA /* Build configuration list for PBXProject "purr" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = B08441B92CAF60AD00842AFA;
+			mainGroup = B08442272CAF62CE00842AFA;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = B08441C32CAF60AD00842AFA /* Products */;
+			productRefGroup = B08442312CAF62CE00842AFA /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B08441C12CAF60AD00842AFA /* purr */,
-				B08441D22CAF60AF00842AFA /* purrTests */,
-				B08441DC2CAF60AF00842AFA /* purrUITests */,
+				B084422F2CAF62CE00842AFA /* purr */,
+				B08442402CAF62CF00842AFA /* purrTests */,
+				B084424A2CAF62CF00842AFA /* purrUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		B08441C02CAF60AD00842AFA /* Resources */ = {
+		B084422E2CAF62CE00842AFA /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B08441D12CAF60AF00842AFA /* Resources */ = {
+		B084423F2CAF62CF00842AFA /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B08441DB2CAF60AF00842AFA /* Resources */ = {
+		B08442492CAF62CF00842AFA /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		B08441BE2CAF60AD00842AFA /* Sources */ = {
+		B084422C2CAF62CE00842AFA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B08441CF2CAF60AF00842AFA /* Sources */ = {
+		B084423D2CAF62CF00842AFA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B08441D92CAF60AF00842AFA /* Sources */ = {
+		B08442472CAF62CF00842AFA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		B08441D52CAF60AF00842AFA /* PBXTargetDependency */ = {
+		B08442432CAF62CF00842AFA /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = B08441C12CAF60AD00842AFA /* purr */;
-			targetProxy = B08441D42CAF60AF00842AFA /* PBXContainerItemProxy */;
+			target = B084422F2CAF62CE00842AFA /* purr */;
+			targetProxy = B08442422CAF62CF00842AFA /* PBXContainerItemProxy */;
 		};
-		B08441DF2CAF60AF00842AFA /* PBXTargetDependency */ = {
+		B084424D2CAF62CF00842AFA /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = B08441C12CAF60AD00842AFA /* purr */;
-			targetProxy = B08441DE2CAF60AF00842AFA /* PBXContainerItemProxy */;
+			target = B084422F2CAF62CE00842AFA /* purr */;
+			targetProxy = B084424C2CAF62CF00842AFA /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		B08441E52CAF60AF00842AFA /* Debug */ = {
+		B08442532CAF62CF00842AFA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -332,7 +332,7 @@
 			};
 			name = Debug;
 		};
-		B08441E62CAF60AF00842AFA /* Release */ = {
+		B08442542CAF62CF00842AFA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -387,7 +387,7 @@
 			};
 			name = Release;
 		};
-		B08441E82CAF60AF00842AFA /* Debug */ = {
+		B08442562CAF62CF00842AFA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -396,10 +396,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"purr/Preview Content\"";
-				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -412,7 +412,7 @@
 			};
 			name = Debug;
 		};
-		B08441E92CAF60AF00842AFA /* Release */ = {
+		B08442572CAF62CF00842AFA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -421,10 +421,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"purr/Preview Content\"";
-				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -437,7 +437,7 @@
 			};
 			name = Release;
 		};
-		B08441EB2CAF60AF00842AFA /* Debug */ = {
+		B08442592CAF62CF00842AFA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -454,7 +454,7 @@
 			};
 			name = Debug;
 		};
-		B08441EC2CAF60AF00842AFA /* Release */ = {
+		B084425A2CAF62CF00842AFA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -471,7 +471,7 @@
 			};
 			name = Release;
 		};
-		B08441EE2CAF60AF00842AFA /* Debug */ = {
+		B084425C2CAF62CF00842AFA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -486,7 +486,7 @@
 			};
 			name = Debug;
 		};
-		B08441EF2CAF60AF00842AFA /* Release */ = {
+		B084425D2CAF62CF00842AFA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -504,43 +504,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B08441BD2CAF60AD00842AFA /* Build configuration list for PBXProject "purr" */ = {
+		B084422B2CAF62CE00842AFA /* Build configuration list for PBXProject "purr" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B08441E52CAF60AF00842AFA /* Debug */,
-				B08441E62CAF60AF00842AFA /* Release */,
+				B08442532CAF62CF00842AFA /* Debug */,
+				B08442542CAF62CF00842AFA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B08441E72CAF60AF00842AFA /* Build configuration list for PBXNativeTarget "purr" */ = {
+		B08442552CAF62CF00842AFA /* Build configuration list for PBXNativeTarget "purr" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B08441E82CAF60AF00842AFA /* Debug */,
-				B08441E92CAF60AF00842AFA /* Release */,
+				B08442562CAF62CF00842AFA /* Debug */,
+				B08442572CAF62CF00842AFA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B08441EA2CAF60AF00842AFA /* Build configuration list for PBXNativeTarget "purrTests" */ = {
+		B08442582CAF62CF00842AFA /* Build configuration list for PBXNativeTarget "purrTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B08441EB2CAF60AF00842AFA /* Debug */,
-				B08441EC2CAF60AF00842AFA /* Release */,
+				B08442592CAF62CF00842AFA /* Debug */,
+				B084425A2CAF62CF00842AFA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B08441ED2CAF60AF00842AFA /* Build configuration list for PBXNativeTarget "purrUITests" */ = {
+		B084425B2CAF62CF00842AFA /* Build configuration list for PBXNativeTarget "purrUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B08441EE2CAF60AF00842AFA /* Debug */,
-				B08441EF2CAF60AF00842AFA /* Release */,
+				B084425C2CAF62CF00842AFA /* Debug */,
+				B084425D2CAF62CF00842AFA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = B08441BA2CAF60AD00842AFA /* Project object */;
+	rootObject = B08442282CAF62CE00842AFA /* Project object */;
 }
